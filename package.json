@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18",
+    "puppeteer": "^15.2.0",
+    "puppeteer-core": "^15.2.0"
+  }
+}
